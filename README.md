@@ -56,7 +56,7 @@ It covers two essential steps in any data science project:
 ![Top 5 Population](image_path)
 
 **Population Growth Trend**
-![Population Trend](image_path)
+![Population Trend](EDA with python/images/Popuulation_growth_trend.PNG)
 
 ---
 
