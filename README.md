@@ -1,7 +1,7 @@
 # pythonProjects
-**Data Cleaning & Exploratoey Data Analysis with Pandas**
+**Data Cleaning & Exploratory Data Analysis with Pandas**
 
-This repository demonstrates a complete **Data Analysis workflow** using **Pyhton & Pandas**.
+This repository demonstrates a complete **Data Analysis workflow** using **Python & Pandas**.
 
 It covers two essential steps in any data science project:
 
@@ -35,7 +35,7 @@ It covers two essential steps in any data science project:
 - Removed duplicates
 - Dropped irrelevant columns
 - Standardized column values
-- Cleaned string data(`Last_name`,`Pone_Number`,etc.) using regex and string functions
+- Cleaned string data(`Last_Name`,`Phone_Number`,etc.) using regex and string functions
 - Prepared dataset for further analysis
 
 **Before Cleaning**
@@ -46,7 +46,7 @@ It covers two essential steps in any data science project:
 
 **2. Exploratory Data Analysis**(`EDA with Pandas.ipynb`)
 
-- Loaded `World Population datase`
+- Loaded `World Population dataset`
 - Performed dataset overview: `.head()`,`.info()`,`.describe()`
 - Checked missing values & unique values
 - Analyzed top populated countries
