@@ -39,7 +39,7 @@ It covers two essential steps in any data science project:
 - Prepared dataset for further analysis
 
 **Before Cleaning**
-![Raw Data](image_path)
+![Raw Data](data_cleaning_pandas/images/cleaned_data.PNG)
 
 **After Cleaning**
 ![Cleaned Data](image_path)
