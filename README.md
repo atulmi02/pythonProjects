@@ -39,10 +39,10 @@ It covers two essential steps in any data science project:
 - Prepared dataset for further analysis
 
 **Before Cleaning**
-![Raw Data](data_cleaning_pandas/images/cleaned_data.PNG)
+![Raw Data](data_cleaning_pandas/images/raw_data.PNG)
 
 **After Cleaning**
-![Cleaned Data](image_path)
+![Cleaned Data](data_cleaning_pandas/images/cleaned_data.PNG)
 
 **2. Exploratory Data Analysis**(`EDA with Pandas.ipynb`)
 
