@@ -53,10 +53,10 @@ It covers two essential steps in any data science project:
 - Explored population growth ,density, and world percentage
 
 **Top 5 Countries by Population(2022)**
-![Top 5 Population](image_path)
+![Top 5 Population](EDA_with_python/images/Top5_Population.PNG)
 
 **Population Growth Trend**
-![Population Trend](EDA with python/images/Popuulation_growth_trend.PNG)
+![Population Trend](EDA_with_python/images/Population_growth_trend.PNG)
 
 ---
 
